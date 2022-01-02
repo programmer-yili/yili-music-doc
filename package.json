@@ -1,0 +1,16 @@
+{
+  "name": "yili-music-doc",
+  "version": "1.0.0",
+  "description": "a doc for yili music",
+  "main": "index.js",
+  "repository": "git@github.com:programmer-yili/yili-music-doc.git",
+  "author": "IlhamTahir <yantaq@bilig.biz>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
