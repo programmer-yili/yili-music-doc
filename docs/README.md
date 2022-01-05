@@ -1,29 +1,20 @@
-# 音乐APP全栈开发
+---
+home: true
+title: 首页
+heroImage: /images/logo.png
+actions:
+- text: Get Started
+  link: /frontend/
+  type: primary
+- text: Introduction
+  link: /guide/
+  type: secondary
+features:
+- title: SpringBoot接口
+  details: 详情
+- title: SpringBoot接口
+  details: 详情
 
+footer: MIT Licensed | Copyright©2022 程序猿依力
 
-## 代码仓库
-
-* Github
-
-    服务端：https://github.com/programmer-yili/yili-music
-	
-    后台：https://github.com/programmer-yili/yili-music-admin
-
-    小程序：https://github.com/programmer-yili/yili-music-mp
-
-    APP: https://github.com/programmer-yili/yili-music-app
-
-* Gitee
-
-    服务端：https://gitee.com/programmer-yili/yili-music
-	
-    后台：https://gitee.com/programmer-yili/yili-music-admin
-
-    小程序：https://gitee.com/programmer-yili/yili-music-mp
-
-    APP: https://gitee.com/programmer-yili/yili-music-app
-
-
-## B站录播地址
-
-https://space.bilibili.com/146770873
+---
