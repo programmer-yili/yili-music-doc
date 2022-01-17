@@ -1,3 +1,7 @@
+---
+prev: /service/day18-springboot-token-api.md
+---
+
 # SpringBoot集成Swagger 3.0
 
 3.0版本在配置上与2.9稍有差别，包括依赖包改为: springfox-boot-starter，启用注解更改为: @EnableOpenApi等。
@@ -86,6 +90,8 @@ public class UserController {
 
 
 ## 报错提示
+
+````
 org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is java.lang.NullPointerException: Cannot invoke "org.springframework.web.servlet.mvc.condition.PatternsRequestCondition.getPatterns()" because "this.condition" is null
         at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:181) ~[spring-context-5.3.13.jar:5.3.13]
         at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:54) ~[spring-context-5.3.13.jar:5.3.13]
@@ -102,6 +108,8 @@ org.springframework.context.ApplicationContextException: Failed to start bean 'd
         at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301) ~[spring-boot-2.6.0.jar:2.6.0]
         at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290) ~[spring-boot-2.6.0.jar:2.6.0]
         at com.example.springfox.SpringFoxApplication.main(SpringFoxApplication.java:10) ~[main/:na]
+````
+
 ## 原因
 这个问题是由Springfox 中的一个错误引起的。它对 Spring MVC 的设置方式做出了假设，但并不总是如此。具体来说，它假设 MVC 的路径匹配将使用基于 Ant 的路径匹配器而不是基于 PathPattern 的匹配器。基于 PathPattern 的匹配已经成为一个选项有一段时间了，并且是 Spring Boot 2.6 的默认选项。
 
