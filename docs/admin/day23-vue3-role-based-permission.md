@@ -105,7 +105,7 @@ const handleErrorResponse = response => {
 * [GitHub](https://github.com/programmer-yili/yili-music-admin/commit/4328926389a475113168b63d8d992b72d0b45b95)
 
 
-* [Gitee](https://github.com/programmer-yili/yili-music-admin/commit/4328926389a475113168b63d8d992b72d0b45b95)
+* [Gitee](https://gitee.com/programmer-yili/yili-music-admin/commit/4328926389a475113168b63d8d992b72d0b45b95)
 
 
 
