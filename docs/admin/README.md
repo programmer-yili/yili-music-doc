@@ -9,4 +9,5 @@ title: 前端页面
 ### [Day11：Vue3登录页面](../admin/day11-vue3-login-page.md)
 ### [Day15: Vue3后台Layout组件](../admin/day15-vue3-layout-component.md)
 ### [Day19：Vue3 登录重构](../admin/day19-vue3-login-refactoring.md)
+### [Day23：Vue3后台角色权限判断](../admin/day23-vue3-role-based-permission.md)
 
