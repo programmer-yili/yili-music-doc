@@ -1,6 +1,7 @@
 ---
 
 prev: /app/day21-app-homepage-category-banner.md
+next: /admin/day23-vue3-role-based-permission.md
 
 ---
 
