@@ -35,6 +35,19 @@ export default defineUserConfig<DefaultThemeOptions>({
             {
                 text: 'APP (Flutter)',
                 link: '/app/'
+            },
+            {
+                text: '站点切换',
+                children: [
+                    {
+                        text: 'Github',
+                        link: 'https://programmer-yili.github.io/yili-music-doc/'
+                    },
+                    {
+                        text: 'Gitee',
+                        link: 'https://programmer-yili.gitee.io/yili-music-doc/'
+                    }
+                ]
             }
         ],
         editLinkText: '编辑此页',

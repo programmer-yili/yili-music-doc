@@ -4,3 +4,4 @@
 ## 演示地址：
 
 GitHub： https://programmer-yili.github.io/yili-music-doc/
+Gitee: https://programmer-yili.gitee.io/yili-music-doc/
