@@ -15,6 +15,4 @@ next:
 
 ## 录播视频
 
-::: tip
-录播视频预计1月17日更新
-:::
+<Bili src="//player.bilibili.com/player.html?bvid=BV1Bq4y1k72U&page=1"/>

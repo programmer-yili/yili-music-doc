@@ -22,3 +22,4 @@
 ### [Day20：小程序首页分类列表](../mp/day20-mp-homepage-category-banner.md)
 ### [Day21：Flutter首页分类列表](../app/day21-app-homepage-category-banner.md)
 ### [Day22：SpringBoot 用户角色权限](../service/day22-springboot-role-permission.md)
+### [Day23：Vue3后台角色权限判断](../admin/day23-vue3-role-based-permission.md)
