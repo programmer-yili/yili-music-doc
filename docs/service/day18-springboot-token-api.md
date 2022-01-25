@@ -19,6 +19,4 @@ next: /admin/day19-vue3-login-refactoring.md
 
 ## 录播视频
 
-::: tip
-录播视频预计1月18日更新
-:::
+<Bili src="//player.bilibili.com/player.html?bvid=BV1yR4y1M7M3&page=1"/>

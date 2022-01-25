@@ -16,5 +16,5 @@ next: /app/day21-app-homepage-category-banner.md
 ## 录播视频
 
 ::: tip
-录播视频预计1月20日更新
+录播视频预计1月27日更新
 :::

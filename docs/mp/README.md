@@ -4,3 +4,4 @@
 ### [Day8：小程序登录页面](../mp/day8-mp-login-page.md)
 ### [Day12: 小程序登录功能](../mp/day12-mp-login-page.md)
 ### [Day20：小程序首页分类列表](../mp/day20-mp-homepage-category-banner.md)
+### [Day24：小程序首页推荐音乐人](../mp/day24-mp-homepage-musician-banner.md)

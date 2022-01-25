@@ -1,7 +1,7 @@
 ---
 
 prev: /service/day22-springboot-role-permission.md
-
+next: /mp/day24-mp-homepage-musician-banner.md
 ---
 # Day23：Vue3后台角色权限判断
 
@@ -112,7 +112,7 @@ const handleErrorResponse = response => {
 ## 录播视频
 
 ::: tip
-录播视频预计1月23日更新
+录播视频预计1月30日更新
 :::
 
 

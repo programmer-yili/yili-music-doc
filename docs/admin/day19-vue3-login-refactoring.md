@@ -24,5 +24,5 @@ next: /mp/day20-mp-homepage-category-banner.md
 
 
 ::: tip
-录播视频预计1月19日更新
+录播视频预计1月26日更新
 :::

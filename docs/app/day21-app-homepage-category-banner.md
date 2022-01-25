@@ -237,5 +237,5 @@ class CategoryCard extends StatelessWidget {
 ## 录播视频
 
 ::: tip
-录播视频预计1月21日更新
+录播视频预计1月28日更新
 :::

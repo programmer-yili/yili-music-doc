@@ -23,3 +23,6 @@
 ### [Day21：Flutter首页分类列表](../app/day21-app-homepage-category-banner.md)
 ### [Day22：SpringBoot 用户角色权限](../service/day22-springboot-role-permission.md)
 ### [Day23：Vue3后台角色权限判断](../admin/day23-vue3-role-based-permission.md)
+### [Day24：小程序首页推荐音乐人](../mp/day24-mp-homepage-musician-banner.md)
+### [Day25：Flutter首页推荐音乐人](../app/day25-flutter-homepage-musician-banner.md)
+### [Day26：SpringBoot 微信OAuth接口集成](../service/day26-springboot-oauth2.md)

@@ -84,6 +84,6 @@ Page<UserVo> search(@PageableDefault(sort = {"createdTime"}, direction = Sort.Di
 ## 录播视频
 
 ::: tip
-录播视频预计1月22日更新
+录播视频预计1月29日更新
 :::
 

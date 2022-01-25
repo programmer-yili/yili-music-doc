@@ -6,3 +6,4 @@
 ### [Day14: SpringBoot用户管理接口](../service/day14-springboot-user-api.md)
 ### [Day18：SpringBoot Token接口](../service/day18-springboot-token-api.md)
 ### [Day22：SpringBoot 用户角色权限](../service/day22-springboot-role-permission.md)
+### [Day26：SpringBoot 微信OAuth接口集成](../service/day26-springboot-oauth2.md)
